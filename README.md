@@ -104,7 +104,7 @@ Nix:
 
 * [`tinc`](https://github.com/sol/tinc/blob/nixpkgs/NIX.md) - this uses
   `cabal`'s solver to select which Haskell packages to use instead of the
-  curated Haskell package set from `nixpkgs`
+  curated Haskell package set from `nixpkgs`. Stack's curated package set can be used as well.
 * [`styx`](https://github.com/jyp/styx) - This tool provides a `stack`-like
   interface to managing Haskell dependencies using Nix
 
